@@ -3,3 +3,4 @@ test
 git
 gitchina
 gitchina2
+master merge
